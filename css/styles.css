@@ -61,10 +61,11 @@ body h2 {
   transform: scale(0.8) skew(-12deg) translateX(150%);
 }
 
-/*.s2:hover .cell:nth-child(-n + 3) {
+.s2:hover .cell:nth-child(-n + 3) {
   transform: scale(0.8) skew(12deg) translateX(-100%);
 }
-.s2:hover .cell:nth-child(n + 4) {
+
+/*.s2:hover .cell:nth-child(n + 4) {
   transform: scale(0.8) skew(-12deg) translateX(100%);
 }
 
