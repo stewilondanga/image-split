@@ -65,11 +65,11 @@ body h2 {
   transform: scale(0.8) skew(12deg) translateX(-100%);
 }
 
-/*.s2:hover .cell:nth-child(n + 4) {
+.s2:hover .cell:nth-child(n + 4) {
   transform: scale(0.8) skew(-12deg) translateX(100%);
 }
 
-.s3:hover .cell:nth-child(n + 6):nth-child(-n + 9), .s3:hover .cell:nth-child(n + 16):nth-child(-n + 19) {
+/*.s3:hover .cell:nth-child(n + 6):nth-child(-n + 9), .s3:hover .cell:nth-child(n + 16):nth-child(-n + 19) {
   transform: translateX(-300%);
 }
 .s3:hover .cell:nth-child(n + 12):nth-child(-n + 15) {
