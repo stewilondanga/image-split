@@ -81,11 +81,11 @@ body h2 {
   transform: translateX(-300%);
 }
 
-/*.s4:hover .cell:nth-child(odd) {
+.s4:hover .cell:nth-child(odd) {
   transform: translateX(300%);
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
