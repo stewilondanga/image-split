@@ -7,6 +7,11 @@ body {
   font-family: "Averia Serif Libre", cursive;
 }
 
+body h2 {
+  font-size: 5vw;
+  margin: 0 0 30px;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -31,10 +36,6 @@ body {
 }
 
 
-body h2 {
-  font-size: 5vw;
-  margin: 0 0 30px;
-}
 
 .splitting {
   width: 90vw;
