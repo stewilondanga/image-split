@@ -1,4 +1,12 @@
 @import url("https://fonts.googleapis.com/css?family=Averia+Serif+Libre");
+
+body {
+  padding: 60px 0;
+  text-align: center;
+  background-color: #f2f7f2;
+  font-family: "Averia Serif Libre", cursive;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -23,12 +31,6 @@
 }
 
 
-body {
-  padding: 60px 0;
-  text-align: center;
-  background-color: #f2f7f2;
-  font-family: "Averia Serif Libre", cursive;
-}
 body h2 {
   font-size: 5vw;
   margin: 0 0 30px;
