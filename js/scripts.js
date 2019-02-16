@@ -6,3 +6,9 @@ var navigate = (function() {
 		$('.' + dataName).toggle();
 	});
 })();
+
+Splitting({
+	target: "[data-rows], [data-columns], [data-image]",
+	by: "cells",
+	image: true
+});
