@@ -73,11 +73,11 @@ body h2 {
   transform: translateX(-300%);
 }
 
-/*.s3:hover .cell:nth-child(n + 12):nth-child(-n + 15) {
+.s3:hover .cell:nth-child(n + 12):nth-child(-n + 15) {
   transform: translateX(300%);
 }
 
-.s4:hover .cell:nth-child(even) {
+/*.s4:hover .cell:nth-child(even) {
   transform: translateX(-300%);
 }
 .s4:hover .cell:nth-child(odd) {
