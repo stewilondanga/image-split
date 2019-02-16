@@ -52,11 +52,12 @@ body h2 {
   width: calc(100% / var(--col-total));
 }
 
-/*.s1 p {
+.s1 p {
   transform: rotate(-90deg) translate(25%, -50%);
   left: 0;
 }
-.s1:hover .cell {
+
+/*.s1:hover .cell {
   transform: scale(0.8) skew(-12deg) translateX(150%);
 }
 
